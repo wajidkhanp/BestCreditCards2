@@ -10,10 +10,21 @@
 		7E9EE07C24A7FF1E000BC7CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE07B24A7FF1E000BC7CB /* AppDelegate.swift */; };
 		7E9EE07E24A7FF1E000BC7CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE07D24A7FF1E000BC7CB /* SceneDelegate.swift */; };
 		7E9EE08124A7FF1E000BC7CB /* BestCreditCards2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE07F24A7FF1E000BC7CB /* BestCreditCards2.xcdatamodeld */; };
-		7E9EE08324A7FF1E000BC7CB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE08224A7FF1E000BC7CB /* ContentView.swift */; };
+		7E9EE08324A7FF1E000BC7CB /* CreditCardList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE08224A7FF1E000BC7CB /* CreditCardList.swift */; };
 		7E9EE08524A7FF1F000BC7CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9EE08424A7FF1F000BC7CB /* Assets.xcassets */; };
 		7E9EE08824A7FF1F000BC7CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9EE08724A7FF1F000BC7CB /* Preview Assets.xcassets */; };
 		7E9EE08B24A7FF1F000BC7CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E9EE08924A7FF1F000BC7CB /* LaunchScreen.storyboard */; };
+		7E9EE09424A804CA000BC7CB /* Cards.json in Resources */ = {isa = PBXBuildFile; fileRef = 7E9EE09324A804CA000BC7CB /* Cards.json */; };
+		7E9EE09624A80555000BC7CB /* CardMainList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE09524A80555000BC7CB /* CardMainList.swift */; };
+		7E9EE09824A806A1000BC7CB /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE09724A806A1000BC7CB /* Helper.swift */; };
+		7E9EE09A24A809B3000BC7CB /* CardDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE09924A809B3000BC7CB /* CardDetailView.swift */; };
+		7E9EE09D24A809FC000BC7CB /* AsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE09C24A809FC000BC7CB /* AsyncImage.swift */; };
+		7E9EE09F24A80A07000BC7CB /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE09E24A80A07000BC7CB /* ImageLoader.swift */; };
+		7E9EE0A124A81210000BC7CB /* LandingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE0A024A81210000BC7CB /* LandingScreen.swift */; };
+		7E9EE0A324A8128C000BC7CB /* CardListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE0A224A8128C000BC7CB /* CardListView.swift */; };
+		7E9EE0A524A85347000BC7CB /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE0A424A85347000BC7CB /* Category.swift */; };
+		7E9EE0A724A86AC5000BC7CB /* CardListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE0A624A86AC5000BC7CB /* CardListingView.swift */; };
+		7E9EE0A924A94513000BC7CB /* CardListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9EE0A824A94513000BC7CB /* CardListRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,11 +32,22 @@
 		7E9EE07B24A7FF1E000BC7CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7E9EE07D24A7FF1E000BC7CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7E9EE08024A7FF1E000BC7CB /* BestCreditCards2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BestCreditCards2.xcdatamodel; sourceTree = "<group>"; };
-		7E9EE08224A7FF1E000BC7CB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7E9EE08224A7FF1E000BC7CB /* CreditCardList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardList.swift; sourceTree = "<group>"; };
 		7E9EE08424A7FF1F000BC7CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E9EE08724A7FF1F000BC7CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7E9EE08A24A7FF1F000BC7CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E9EE08C24A7FF1F000BC7CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E9EE09324A804CA000BC7CB /* Cards.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Cards.json; sourceTree = "<group>"; };
+		7E9EE09524A80555000BC7CB /* CardMainList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardMainList.swift; sourceTree = "<group>"; };
+		7E9EE09724A806A1000BC7CB /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		7E9EE09924A809B3000BC7CB /* CardDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardDetailView.swift; sourceTree = "<group>"; };
+		7E9EE09C24A809FC000BC7CB /* AsyncImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImage.swift; sourceTree = "<group>"; };
+		7E9EE09E24A80A07000BC7CB /* ImageLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		7E9EE0A024A81210000BC7CB /* LandingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingScreen.swift; sourceTree = "<group>"; };
+		7E9EE0A224A8128C000BC7CB /* CardListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardListView.swift; sourceTree = "<group>"; };
+		7E9EE0A424A85347000BC7CB /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		7E9EE0A624A86AC5000BC7CB /* CardListingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardListingView.swift; sourceTree = "<group>"; };
+		7E9EE0A824A94513000BC7CB /* CardListRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardListRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +80,15 @@
 		7E9EE07A24A7FF1E000BC7CB /* BestCreditCards2 */ = {
 			isa = PBXGroup;
 			children = (
+				7E9EE09B24A809EF000BC7CB /* Helper */,
+				7E9EE09224A8049C000BC7CB /* Data */,
 				7E9EE07B24A7FF1E000BC7CB /* AppDelegate.swift */,
 				7E9EE07D24A7FF1E000BC7CB /* SceneDelegate.swift */,
-				7E9EE08224A7FF1E000BC7CB /* ContentView.swift */,
+				7E9EE08224A7FF1E000BC7CB /* CreditCardList.swift */,
+				7E9EE09924A809B3000BC7CB /* CardDetailView.swift */,
+				7E9EE0A024A81210000BC7CB /* LandingScreen.swift */,
+				7E9EE0A224A8128C000BC7CB /* CardListView.swift */,
+				7E9EE0A624A86AC5000BC7CB /* CardListingView.swift */,
 				7E9EE08424A7FF1F000BC7CB /* Assets.xcassets */,
 				7E9EE08924A7FF1F000BC7CB /* LaunchScreen.storyboard */,
 				7E9EE08C24A7FF1F000BC7CB /* Info.plist */,
@@ -76,6 +104,27 @@
 				7E9EE08724A7FF1F000BC7CB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7E9EE09224A8049C000BC7CB /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				7E9EE09324A804CA000BC7CB /* Cards.json */,
+				7E9EE09524A80555000BC7CB /* CardMainList.swift */,
+				7E9EE09724A806A1000BC7CB /* Helper.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		7E9EE09B24A809EF000BC7CB /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				7E9EE09E24A80A07000BC7CB /* ImageLoader.swift */,
+				7E9EE09C24A809FC000BC7CB /* AsyncImage.swift */,
+				7E9EE0A424A85347000BC7CB /* Category.swift */,
+				7E9EE0A824A94513000BC7CB /* CardListRow.swift */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,6 +188,7 @@
 				7E9EE08B24A7FF1F000BC7CB /* LaunchScreen.storyboard in Resources */,
 				7E9EE08824A7FF1F000BC7CB /* Preview Assets.xcassets in Resources */,
 				7E9EE08524A7FF1F000BC7CB /* Assets.xcassets in Resources */,
+				7E9EE09424A804CA000BC7CB /* Cards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,8 +201,18 @@
 			files = (
 				7E9EE07C24A7FF1E000BC7CB /* AppDelegate.swift in Sources */,
 				7E9EE07E24A7FF1E000BC7CB /* SceneDelegate.swift in Sources */,
-				7E9EE08324A7FF1E000BC7CB /* ContentView.swift in Sources */,
+				7E9EE08324A7FF1E000BC7CB /* CreditCardList.swift in Sources */,
+				7E9EE0A324A8128C000BC7CB /* CardListView.swift in Sources */,
 				7E9EE08124A7FF1E000BC7CB /* BestCreditCards2.xcdatamodeld in Sources */,
+				7E9EE0A724A86AC5000BC7CB /* CardListingView.swift in Sources */,
+				7E9EE09D24A809FC000BC7CB /* AsyncImage.swift in Sources */,
+				7E9EE0A124A81210000BC7CB /* LandingScreen.swift in Sources */,
+				7E9EE0A924A94513000BC7CB /* CardListRow.swift in Sources */,
+				7E9EE09F24A80A07000BC7CB /* ImageLoader.swift in Sources */,
+				7E9EE09624A80555000BC7CB /* CardMainList.swift in Sources */,
+				7E9EE09824A806A1000BC7CB /* Helper.swift in Sources */,
+				7E9EE09A24A809B3000BC7CB /* CardDetailView.swift in Sources */,
+				7E9EE0A524A85347000BC7CB /* Category.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

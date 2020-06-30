@@ -1,0 +1,691 @@
+[
+  {
+    "id": 101,
+    "name": "American Express",
+    "cards": [
+      {
+        "name": "Blue Cash Preferred® Card",
+        "category": ["AMERICAN_EXPRESS", "TOP_PICK", "BALANCE_TRANSFER"],
+        "bonus": "Earn $250 back after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "$95 Annual Fee",
+        "id": 1001,
+        "introApr": "Intro APR: 0% intro APR on purchases and balance transfers for 12 months from the date of account opening, then a variable APR, 12.99% to 23.99%.",
+        "benefits": [
+          "6% cash back at U.S. supermarkets, on up to $6K in purchases‡ ",
+          "6% cash back on select U.S. streaming subscriptions‡",
+          "3% cash back on transit purchases‡",
+          "1% Cash Back on other purchases. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit s"
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-preferred.png"
+      },
+      {
+        "name": "Cash Magnet® Card",
+        "category": ["AMERICAN_EXPRESS","TOP_PICK", "BALANCE_TRANSFER"],
+        "bonus": "Earn $150 back after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "No Annual Fee¤",
+        "id": 1002,
+        "introApr": "Intro APR: 0% intro APR on purchases and balance transfers for 12 months from the date of account opening, then a variable APR, 12.99% to 23.99%.",
+        "benefits": [
+          "Earn unlimited 1.5% Cash Back on your purchases. Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/cash-magnet.png"
+      },
+      {
+        "name": "The Platinum Card®",
+        "category": ["AMERICAN_EXPRESS","TRAVEL"],
+        "bonus": "Earn 60,000 Membership Rewards® Points after you spend $5,000 in purchases in your first 3 months.†",
+        "annualFee": "$550 Annual Fee",
+        "id": 1003,
+        "introApr": "",
+        "benefits": [
+          "With your Platinum Card you'll receive $15 in Uber Cash for rides or eats orders in the US every month plus a bonus $20 in December1, delivered through an exclusive Uber app experience. That's up to $200 for Uber rides or eats orders annually. ",
+          "Get up to $100 in statement credits annually for purchases at Saks Fifth Avenue or saks.com on your Platinum Card®. That's up to $50 on a semi-annual basis. Enrollment required.",
+          "$200 Airline Fee Credit",
+          "Earn 5X Points on Flights Booked Directly with Airlines",
+          "Earn 5X Points on Prepaid Hotels",
+          "Earn 1X Points on All Other Eligible Purchases"
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png"
+      },
+      {
+        "name": "Blue Cash Everyday® Card",
+        "category": ["AMERICAN_EXPRESS", "BALANCE_TRANSFER", "REWARDS"],
+        "bonus": "Earn $150 back after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "No Annual Fee¤",
+        "id": 1004,
+        "introApr": "0% intro APR on purchases and balance transfers for 15 months from the date of account opening, then a variable APR, 12.99% to 23.99%.¤",
+        "benefits": [
+          "3% cash back at U.S. supermarkets, on up to $6K in purchases‡ ",
+          "2% cash back select U.S. department stores‡",
+          "2% cash back at U.S. gas stations‡"
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/blue-cash-everyday.png"
+      },
+      {
+        "name": "Amex EveryDay® Preferred Credit Card",
+        "category": ["AMERICAN_EXPRESS", "BALANCE_TRANSFER"],
+        "bonus": "Earn 15,000 Membership Rewards® Points after you sepnd $1,000 in purchases in your first 3 months.",
+        "annualFee": "$95 Annuanl Fee",
+        "id": 1005,
+        "introApr": "0% intro APR on purchases and balance transfers for 15 months from the date of account opening, then a variable APR, 12.99% to 23.99%.¤",
+        "benefits": [
+          "Earn 3X Points at U.S. Supermarkets",
+          "Earn 2X Points at U.S. Gas Stations",
+          "Earn 1X Points on All Other Eligible Purchases",
+          "Earn 50% Extra Points - Use your Card 30 or more times on purchases in a billing period and earn 50% extra points on those purchases less returns and credits. Terms apply."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/amex-everyday-preferred.png"
+      },
+      {
+        "name": "Delta SkyMiles® Blue American Express Card",
+        "category": ["AMERICAN_EXPRESS", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 10,000 Bonus Miles after you spend $500 in purchases on your new Card in your first 3 months.",
+        "annualFee": "No Annual Fee¤",
+        "id": 1006,
+        "introApr": "",
+        "benefits": [
+          "Enjoy more than just your meal when you dine including takeout and delivery.– get rewarded with 2X Miles at restaurants.",
+          "Earn 2 miles for every dollar spent on eligible purchases made directly with Delta.",
+          "American Express will not charge you foreign transaction fees when you use your Delta SkyMiles® Blue Card.",
+          "Receive a 20% savings in the form of a statement credit after you use your Card on eligible Delta in-flight purchases of food, beverages, and audio headsets.",
+          "Want even more flexibility? Take up to $50 off the cost of your flight for every 5,000 miles you redeem with Pay with Miles when you book on delta.com."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/delta-blue.png"
+      },
+      {
+        "name": "Delta SkyMiles® Gold American Express Card",
+        "category": ["AMERICAN_EXPRESS", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 35,000 bonus miles after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "$0 intro annual fee for the first year, then $99.",
+        "id": 1007,
+        "introApr": "",
+        "benefits": [
+          "Enjoy your First Checked Bag Free on Delta flights. ",
+          "Get inspired for your next trip - spend $10,000 in purchases on your Card in a calendar year and receive a $100 Delta Flight Credit to get you there sooner.",
+          "Enjoy more than just your meal when you dine including takeout and delivery.– get rewarded with 2X Miles at restaurants.",
+          "Earn 2X Miles at U.S. Supermarkets",
+          "Earn 2 miles for every dollar spent on eligible purchases made directly with Delta.",
+          "Regardless of where you are or what you pay for with the Delta SkyMiles® Gold Card, there are no foreign transaction fees from American Express.",
+          "Receive a 20% savings in the form of a statement credit after you use your Card on eligible Delta in-flight purchases of food, beverages, and audio headsets."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-delta-skymiles.png"
+      },
+      {
+        "name": "Hilton Honors Card",
+        "category": ["AMERICAN_EXPRESS", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 75,000 Hilton Honors Bonus Points after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "No Annual Fee¤",
+        "id": 1008,
+        "introApr": "",
+        "benefits": [
+          "Earn 7X Hilton Honors Bonus Points for each dollar of eligible purchases charged on your Card directly with a hotel or resort within the Hilton portfolio.",
+          "Earn 5X Hilton Honors Bonus Points for each dollar of eligible purchases on your Card at U.S. restaurants and at U.S. supermarkets.",
+          "Earn 5X Hilton Honors Bonus Points for each dollar of eligible purchases on your Card at U.S. gas stations.",
+          "Earn 3X Hilton Honors Bonus Points for all other eligible purchases on your Card.",
+          "Enjoy complimentary Hilton Honors Silver status with your Card.‡ Plus, spend $20,000 on eligible purchases on your Card in a calendar year and you can earn an upgrade to Hilton Honors Gold status through the end of the next calendar year."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors.png"
+      },
+      {
+        "name": "Hilton Honors American Express Surpass® Card",
+        "category": ["AMERICAN_EXPRESS", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 125,000 Hilton Honors Bonus Points after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "$95 Annual Fee¤",
+        "id": 1009,
+        "introApr": " ",
+        "benefits": [
+          "Earn 12X Hilton Honors Bonus Points for each dollar of eligible purchases charged on your Card directly with a hotel or resort within the Hilton portfolio.",
+          "Earn 6X Hilton Honors Bonus Points for each dollar of eligible purchases on your Card at U.S. restaurants and U.S. supermarkets.",
+          "Earn 6X Hilton Honors Bonus Points for each dollar of eligible purchases on your Card at U.S. gas stations.",
+          "Earn 3X Hilton Honors Bonus Points for all other eligible purchases on your Card.",
+          "Enjoy complimentary Hilton Honors Gold status with your Hilton Honors Surpass® Card. Plus, spend $40,000 on eligible purchases on your Card in a calendar year and you can earn Hilton Honors Diamond status through the end of the next calendar year.",
+          "Earn a Free Weekend Night Reward from Hilton Honors after you spend $15,000 on eligible purchases on your Card in a calendar year."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png"
+      },
+      {
+        "name": "American Express® Green Card",
+        "category": ["AMERICAN_EXPRESS", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 30,000 Membership Rewards® Points after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "$150 Annual Fee¤",
+        "id": 1010,
+        "introApr": "",
+        "benefits": [
+          "Earn 3X Points on Restaurants",
+          "Earn 3X Points on Transit",
+          "Earn 3X Points on Travel",
+          "No Foreign Transaction Fees"
+
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/hilton-honors-surpass.png"
+      },
+      {
+        "name": "Marriott Bonvoy Brilliant™ American Express® Card",
+        "category": ["AMERICAN_EXPRESS", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 75,000 Bonus Marriott Bonvoy Points after you spend $1,000 in purchases on your new Card in your first 3 months.",
+        "annualFee": "$450 Annual Fee¤",
+        "id": 1011,
+        "introApr": "",
+        "benefits": [
+          "Earn 6 Marriott Bonvoy Points for each dollar of eligible purchases at participating Marriott Bonvoy hotels. ",
+          "Earn 3 Marriott Bonvoy Points at U.S. restaurants and on flights booked directly with airlines.",
+          "Earn 2 Marriott Bonvoy Points on all other eligible purchases",
+          "Enjoy up to $300 in statement credits each year of Card Membership for eligible purchases at participating Marriott Bonvoy hotels.",
+          "Receive 1 Free Night Award every year after your Card account anniversary. Award can be used for one night (redemption level at or under 50,000 Marriott Bonvoy points) at a participating hotel. Certain hotels have resort fees.",
+          "Enjoy complimentary Marriott Bonvoy Gold Elite status with your Card.‡ Earn Marriott Bonvoy Platinum Elite status after making $75,000 in eligible purchases on your Card in a calendar year."
+        ],
+        "imageURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/marriott-bonvoy-brilliant-card.png"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Chase Bank",
+    "cards": [
+      {
+        "name": "Chase Freedom Unlimited® credit card",
+        "category": ["CHASE", "BALANCE_TRANSFER", "CASH_BACK"],
+        "bonus": "Earn $200 cash back after you spend $500 on purchases in your first 3 months from account opening.",
+        "annualFee": "No Annual Fee",
+        "id": 2001,
+        "introApr": "0% intro APR for 15 months from account opening on purchases. After the intro period, a variable APR of 14.99%–23.74%.†",
+        "benefits": [
+          "Earn unlimited 1.5% cash back on every purchase.* "
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/freedom_unlimited_card.png"
+      },
+      {
+        "name": "Chase Freedom® credit card",
+        "category": ["CHASE", "CASH_BACK"],
+        "bonus": "Earn $200 cash back after you spend $500 on purchases in your first 3 months from account opening.",
+        "annualFee": "No Annual Fee",
+        "id": 2002,
+        "introApr": "0% intro APR for 15 months from account opening on purchases.† Ater the intro period, a variable APR of 14.99%–23.74%.†",
+        "benefits": [
+          "Earn 5% cash back on up to $1,500 in combined purchases in bonus categories each quarter you activate.* ",
+          "Earn 1% cash back on all other purchases* – it's automatic."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/freedom_card_alt.png"
+      },
+      {
+        "name": "Chase Sapphire Preferred® credit card",
+        "category": ["CHASE", "TRAVEL"],
+        "bonus": "Earn 60,000 bonus points after you spend $4,000 on purchases in the first 3 months from account opening.",
+        "annualFee": "$95 Annual Fee¤",
+        "id": 2003,
+        "introApr": "",
+        "benefits": [
+          "Earn 2X points on travel and dining at restaurants- from airfare and hotels to fine dining and cafés.* ",
+          "Plus, earn 1 point per dollar spent on all other purchases.*"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/sapphire_preferred_card.png"
+      },
+      {
+        "name": "Southwest Rapid Rewards® Priority Credit Card",
+        "category": ["CHASE", "TRAVEL", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 40,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$149 Annula Fee",
+        "id": 2004,
+        "introApr": "",
+        "benefits": [
+          "Earn 2 points for every $1 you spend on Southwest Airlines® purchases.*",
+          "Earn 1 point for every $1 you spend on all other purchases.*",
+          "Receive 7,500 bonus points after your Cardmember anniversary.*",
+          "$75 Southwest annual travel credit*",
+          "4 Upgraded Boardings per year when available*"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/swa_priority_card.png"
+      },
+      {
+        "name": "Southwest Rapid Rewards® Plus Credit Card",
+        "category": ["CHASE", "TRAVEL", "AIRLINE"],
+        "bonus": "Earn 40,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$69 Annual Fee",
+        "id": 2005,
+        "introApr": "",
+        "benefits": [
+          "Earn 2 points for every $1 you spend on Southwest Airlines® purchases.*",
+          "Earn 1 point for every $1 you spend on all other purchases.*",
+          "Receive 3000 bonus points after your Cardmember anniversary.*",
+          "$0 first and second checked bags. $0 change fee."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/swa_plus_card.png"
+      },
+      {
+        "name": "Southwest Rapid Rewards® Premier Credit Card",
+        "category": ["CHASE", "TRAVEL", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 40,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$99 Annula Fee",
+        "id": 2006,
+        "introApr": "",
+        "benefits": [
+          "Earn 2 points for every $1 you spend on Southwest Airlines® purchases.*",
+          "Earn 1 point for every $1 you spend on all other purchases.*",
+          "Receive 6000 bonus points after your Cardmember anniversary.*",
+          "$0 first and second checked bags. $0 change fee.",
+          "No foreign transaction fees"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/swa_premier_card.png"
+      },
+      {
+        "name": "UnitedSM Explorer Card",
+        "category": ["CHASE", "TRAVEL", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 40,000 bonus points after you spend $2,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$0 annual fee first year, then $95.",
+        "id": 2007,
+        "introApr": "",
+        "benefits": [
+          "Earn 2 points for every $1 you spend on UNITED Airlines® purchases.",
+          "Earn 1 point for every $1 you spend on all other purchases.",
+          "Up to $100 as a statement credit for Global Entry or TSA PreCheck™ every 4 years as reimbursement for the application fee for either program when charged to your card.",
+          "25% back as a statement credit on purchases of food, beverages and Wi-Fi onboard United-operated flights when you pay with your Explorer Card.",
+          "Free first checked bag – save up to $140 per roundtrip"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/united_explorer_card.png"
+      },
+      {
+        "name": "British Airways Visa Signature® card",
+        "category": ["CHASE", "TRAVEL", "AIRLINE", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 50,000 Bonus Avios after you spend $3,000 on purchases within the first 3 months of account opening. Plus earn an additional 50,000 Bonus Avios after you spend $20,000 total on purchases within your first year of account opening.",
+        "annualFee": "$195 Annual Fee",
+        "id": 2008,
+        "introApr": "",
+        "benefits": [
+          "Earn 3 Avios for every $1 spent on purchases with British Airways, Aer Lingus, and Iberia, 2 Avios for every $1 spent on hotel accommodations when booked directly with the hotel",
+          "Earn 1 Avios for every $1 you spend on all other purchases",
+          "Take 10% off British Airways flights starting in the US when you book by March 31, 2020 through the website provided in your welcome materials.",
+          "Receive statement credits of $100 for Economy and Premium Economy - or $200 for Business and First Class seats - three times per year, up to $600, when you book a reward flight to London travelling on British Airways and pay taxes, fees and carrier-imposed charges with the British Airways Visa Signature® Card",
+          "Every calendar year you make $30,000 in purchases on your British Airways Visa Signature card, you will earn a Travel Together Ticket good for two years.* Same page link to Offer Details Redeem your Avios for one reward seat for yourself and use your Travel Together Ticket to bring a companion in the same cabin, even first class (taxes, fees and carrier charges apply)."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/ba_sig_card.png"
+      },
+      {
+        "name": "Marriott Bonvoy Boundless™ credit card",
+        "category": ["CHASE", "TRAVEL", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 75,000 bonus points after you spend $3,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$95 Annual Fee",
+        "id": 2009,
+        "introApr": "",
+        "benefits": [
+          "Earn 6X points for every $1 spent at over 7,000 hotels participating in Marriott Bonvoy™",
+          "Earn 2X points for every $1 you spend on all other purchases and your points don't expire as long as you make purchases on your credit card every 24 months",
+          "As a Marriott Bonvoy Boundless™ Cardmember, you'll enjoy a Free Night Award every year after your account anniversary, valid for a one night hotel stay at a property with a redemption level up to 35,000 points.",
+          "No foreign transaction fees"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/marriott_bonvoy_boundless_card.png"
+      },
+      {
+        "name": "Marriott Bonvoy Bold™ credit card",
+        "category": ["CHASE", "TRAVEL", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 30,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$0 Annual Fee",
+        "id": 2010,
+        "introApr": "",
+        "benefits": [
+          "Earn 3X points for every $1 spent at over 7,000 hotels participating in Marriott Bonvoy™",
+          "Earn 2X points for every $1 you spend on other travel purchases (from airfare to taxis and trains).Plus, earn 1X point for every $1 you spend on all other purchases and your points don't expire as long as you make purchases on your credit card every 24 months.",
+          "Receive 15 Elite Night Credits annually, qualifying you for Silver Elite status. Restrictions apply."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/marriott_bonvoy_bold_card_alt.png"
+      },
+      {
+        "name": "World of Hyatt Credit Card",
+        "category": ["CHASE", "TRAVEL", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 50,000 bonus points after you spend $6,000 on purchases in the first 6 months your account opening",
+        "annualFee": "$95 Annual Fee",
+        "id": 2011,
+        "introApr": "",
+        "benefits": [
+          "4 Bonus Points per $1 spent on purchases at all Hyatt hotels",
+          "2 Bonus Points per $1 spent at restaurants, on airline tickets purchased directly from the airline, local transit and commuting as well as fitness club and gym memberships.",
+          "1 Bonus Point per $1 spent on all other purchases.",
+          "Receive one free night at any Category 1–4 Hyatt hotel or resort every year after your cardmember anniversary.",
+          "Earn an extra free night at any Category 1–4 Hyatt hotel or resort if you spend $15,000 during your cardmember anniversary year"
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/world_of_hyatt_card.png"
+      },
+      {
+        "name": "IHG® Rewards Club Premier Credit Card",
+        "category": ["CHASE", "TRAVEL", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 140,000 bonus points after you spend $3,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$89 Annual Fee",
+        "id": 2012,
+        "introApr": "",
+        "benefits": [
+          "Earn 25X Points on all purchases  per dollar at IHG",
+          "Earn 2X points on purchases at gas stations, grocery stores, and restaurants.",
+          "Earn 1 point per $1 spent on all other purchases.",
+          "Enjoy a reward night after each account anniversary year at IHG hotels worldwide.",
+          "Enjoy a reward night when you redeem points for any stay of 4 or more nights."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/ihg_premier_card.png"
+      },
+      {
+        "name": "IHG® Rewards Club Credit Card",
+        "category": ["CHASE", "TRAVEL", "HOTEL", "NO_FOREIGN_FEE"],
+        "bonus": "Earn 75,000 bonus points after you spend $2,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$0 Annual Fee",
+        "id": 2013,
+        "introApr": "",
+        "benefits": [
+          "Earn 15X Points on all purchases  per dollar at IHG",
+          "Earn 2X points on purchases at gas stations, grocery stores, and restaurants.",
+          "Earn 1 point per $1 spent on all other purchases.",
+          "Enjoy a reward night when you redeem points for any stay of 4 or more nights."
+        ],
+        "imageURL": "https://creditcards.chase.com/K-Marketplace/images/cardart/ihg_traveler_card.png"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Bank of America",
+    "cards": [
+      {
+        "name": "Bank of America® Cash Rewards",
+        "category": ["BOA","BALANCE_TRANSFER", "CASH_BACK"],
+        "bonus": "Earn $200 back after you spend $1,000 in purchases on your new Card in your first 3 months",
+        "annualFee": "No Annual Fee¤",
+        "id": 3001,
+        "introApr": "Introductory 0%† APR for your first 15 billing cycles for purchases. After the intro APR offer ends, a Variable APR that's currently 13.99% to 23.99% will apply.",
+        "benefits": [
+          "3% cash back in the category of your choice. Your choice categories include: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings ",
+          "2% cash back at grocery stores and wholesale clubs",
+          "Unlimited 1% cash back on all other purchases",
+          "Preferred Rewards members earn 25%-75% more cash back on every purchase. That means the 3% choice category could go up to 5.25% and the 2% at grocery stores and wholesale clubs could go up to 3.5%, for the first $2,500 in combined choice category/grocery store/wholesale club purchases each quarter, and the 1% for all other purchases could go up to 1.75%."
+        ],
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_250x158.png"
+      },
+      {
+        "name": "Bank of America® Premium Rewards®",
+        "category": ["BOA", "TRAVEL", "TOP_PICK"],
+        "bonus": "Earn 50,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "$95 Annual Fee¤",
+        "id": 3002,
+        "introApr": "",
+        "benefits": [
+          "Earn unlimited points, that don't expire – 2 points for every $1 spent on travel and dining purchases ",
+          "1.5 points per $1 on all other purchases",
+          "Preferred Rewards members earn 25%-75% more points on every purchase. That means you could earn up to 3.5 points for every $1 you spend on travel and dining purchases and up to 2.62 points for every $1 you spend on all other purchases.",
+          "Redeem for cash back as a deposit into Bank of America® checking or savings accounts, for credit to eligible Merrill accounts including 529 accounts, as a statement credit to your credit card, or for gift cards and purchases at the Bank of America Travel Center",
+          "Get up to $200 in combined Airline Incidental and TSA Pre✓®/Global Entry Statement Credits. Plus, access to world class travel perks: travel and purchase protections, luxury hotel collection and concierge service."
+        ],
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cal_prmsigcm_v_250x158.png"
+      },
+      {
+        "name": "Bank of America® Travel Rewards",
+        "category": ["BOA","TRAVEL"],
+        "bonus": "Earn 25,000 bonus points after you spend $1,000 on purchases in the first 3 months your account opening",
+        "annualFee": "No Annual Fee¤",
+        "id": 3003,
+        "introApr": "Introductory 0%† APR for your first 12 billing cycles for purchases. After that, a Variable APR that's currently 14.99% to 22.99% will apply.",
+        "benefits": [
+          "Earn unlimited 1.5 points for every $1 you spend on all purchases everywhere, every time and no expiration on points ",
+          "Preferred Rewards members earn 25%-75% more points on every purchase. That means you could earn up to 3.5 points for every $1 you spend on travel and dining purchases and up to 2.62 points for every $1 you spend on all other purchases.",
+          "No blackout dates or restrictions and points do not expire"
+        ],
+        "imageURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Citi Bank",
+    "cards": [
+      {
+        "name": "Citi Rewards+℠ Card",
+        "category": ["CITI", "REWARDS"],
+        "bonus": "Earn 15,000 bonus points after you spend $1,000 in purchases with your card within the first 3 months of account opening.",
+        "annualFee": "No Annual Fee¤",
+        "id": 4001,
+        "introApr": "0% Intro APR on purchases and balance transfers for 15 months; after that the variable APR will be 13.49% - 23.49%, based on your creditworthiness",
+        "benefits": [
+          "The only card that automatically rounds up to the nearest 10 points on every purchase",
+          "2X at Supermarkets & Gas Stations for the first $6,000 per year and 1 point per $1 spent thereafter",
+          "10% Points Back for the first 100,000 ThankYou® Points you redeem per year",
+          "Shop with Points at Amazon.com or BestBuy.com or redeem for other great rewards"
+        ],
+        "imageURL": "https://www.citi.com/CRD/images/card_no_reflection/citi-rewards-plus-credit-card.jpg"
+      },
+      {
+        "name": "Citi® Double Cash Card",
+        "category": ["CITI", "CASH_BACK"],
+        "bonus": "None available at this time",
+        "annualFee": "No Annual Fee*",
+        "id": 4002,
+        "introApr": "Balance transfer offer: 0% intro APR on balance transfer for 18 months; after that the variable APR will be 13.99% - 23.99% based on your creditworthiness.*",
+        "benefits": [
+          "Earn cash back rewards on every purchase with the Citi® Double Cash card. You get unlimited 1% cash back when you buy, plus another 1% back as you pay for those purchases. Make your money go further with one of Citi's best cash back credit cards.",
+          "Unlike many other cash back credit cards, Citi Double Cash has no restricting categories to keep track of or enroll in.2 There are also no caps on the total amount of cash back you earn."
+        ],
+        "imageURL": "https://www.citi.com/CRD/images/card_no_reflection/citi-double-cash-credit-card.jpg"
+      },
+      {
+        "name": "Citi Premier Card",
+        "category": ["CITI", "TRAVEL"],
+        "bonus": "Earn 60,000 Bonus Points after making $4,000 in purchases with your card within the first 3 months of account opening.",
+        "annualFee": "$95 Annual Fee",
+        "id": 4003,
+        "introApr": "",
+        "benefits": [
+          "Earn 3 points per $1 spent on travel including gas stations, as well as airfare, hotels, car rental agencies, public transportation, tolls, parking and much more",
+          "Earn 2 points per $1 spent dining at restaurants and on entertainment, from lunch at a cafe to bars and lounges, as well as sporting events, movie theaters, concerts and more.",
+          "Earn 1 point per $1 spent on all other purchases, from retailers and drug stores to monthly memberships and bills."
+        ],
+        "imageURL": "https://www.citi.com/CRD/images/card_no_reflection/citi-thankyou-premier-credit-card.jpg"
+      },
+      {
+        "name": "Costco Anywhere Visa® Card by Citi",
+        "category": ["CITI", "TOP_PICK"],
+        "bonus": "None available at this time",
+        "annualFee": "A Costco membership is required to apply.",
+        "id": 4004,
+        "introApr": "",
+        "benefits": [
+          "4% CASH BACK ON ELIGIBLE GAS WORLDWIDE, INCLUDING GAS AT COSTCO",
+          "3% CASH BACK ON RESTAURANT AND ELIGIBLE TRAVEL PURCHASES WORLDWIDE",
+          "2% CASH BACK ON ALL OTHER PURCHASES FROM COSTCO AND COSTCO.COM"
+        ],
+        "imageURL": "https://www.citi.com/CRD/images/card_no_reflection/Citi-costco-anywhere-visa-credit-card.jpg"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Wellls Forgo Bank",
+    "cards": [
+      {
+        "name": "Wells Fargo Propel American Express® Card",
+        "category": ["WELLSFORGO", "TRAVEL"],
+        "bonus": "Earn 20,000 bonus points after you spend $1,000 in purchases in the first 3 months",
+        "annualFee": "$0 Annual Fee",
+        "id": 5001,
+        "introApr": "Our lowest intro APR on purchases and balance transfers for 12 months from account opening ",
+        "benefits": [
+          "Earn 3x points on2 : Eating out and ordering in; Gas stations, rideshares, and transit; Flights, hotels, homestays, and car rentals; Popular streaming services.",
+          "Earn 1 point for every $1 you spend on all other purchases.*",
+          "No foreign currency conversion fees",
+          "Cell phone protection helps protect your cell phone from damage or theft"
+        ],
+        "imageURL": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card-290x150.png"
+      },
+      {
+        "name": "Wells Fargo Cash Wise Visa® Card",
+        "category": ["WELLSFORGO", "REWARDS", "BALANCE_TRANSFER"],
+        "bonus": "Earn $150 cash rewards bonus after you spend $500 in purchases in the first 3 months",
+        "annualFee": "$0 Annual Fee",
+        "id": 5002,
+        "introApr": "Our lowest possible intro APR on purchases and balance transfers for 15 months from account opening",
+        "benefits": [
+          "No rotating category restrictions or quarterly activations required to earn unlimited 1.5% cash rewards",
+          "Cash rewards do not expire as long as the account is open"
+        ],
+        "imageURL": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/cash_wise_visa_card.png"
+      },
+      {
+        "name": "Wells Fargo Visa Signature® Card",
+        "category": ["WELLSFORGO", "REWARDS","BALANCE_TRANSFER"],
+        "bonus": "5x rewards points earned for up to $12,500 spent on gas, grocery, and drugstore purchases for the first 6 months and 1x points on other purchases - enjoy 5 years to use the points you earn",
+        "annualFee": "$0 Annual Fee",
+        "id": 5003,
+        "introApr": "Our lowest possible intro APR on purchases and balance transfers for 15 months from account opening",
+        "benefits": [
+          "Exceptional Visa Signature privileges including insider access to popular events",
+          "5 points on up to $12,500 spent on gas, grocery, and drugstore purchases for 6 months",
+          "1 point for each $1 spent on other purchases with your card"
+        ],
+        "imageURL": "https://www01.wellsfargomedia.com/assets/images/photography/product/290x150/rewards_visa_signature_card.png"
+      },
+      {
+        "name": "Wells Fargo Platinum Card",
+        "category": ["WELLSFORGO", "BALANCE_TRANSFER"],
+        "bonus": "Lowest Possible Intro APR for 18 months from account opening on purchases and balance transfers",
+        "annualFee": "$0 Annual Fee",
+        "id": 5004,
+        "introApr": "Our lowest possible intro APR on purchases and balance transfers for 18 months from account opening",
+        "benefits": [
+          "Account protection features such as Zero Liability protection for promptly reported unauthorized transactions, alerts1 , cell phone protection",
+          "My Money Map – tools to help you manage spending and create a budget with ease",
+          "Access to your FICO® Credit Score with Wells Fargo Online®"
+        ],
+        "imageURL": "https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/platinum_visa_card.png"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "US Bank",
+    "cards": [
+      {
+        "name": "U.S. Bank Altitude® Go Visa Signature® Card",
+        "category": ["USBANK", "BALANCE_TRANSFER", "REWARDS", "NEW_CARD"],
+        "bonus": "Earn 20,000 bonus points after you spend $1,000 within the first 3 months of account opening",
+        "annualFee": "$0 Annual Fee",
+        "id": 6001,
+        "introApr": "Enjoy a 0% intro APR on purchases and balance transfers for the first 12 billing cycles. After that the APR is variable, currently 14.99% - 23.99%.",
+        "benefits": [
+          "4X points On takeout, food delivery and dining.",
+          "2X points At grocery stores, grocery delivery, streaming services and gas stations.",
+          "1 point per $1 on all other eligible purchases.",
+          "$15 credit for annual streaming service purchases such as Netflix and Spotify®."
+        ],
+        "imageURL": "https://www.usbank.com/dam/images/rps/large/cardArt_altitudeGo-large-333x209.png"
+      },
+      {
+        "name": "U.S. BANK CASH+™ VISA SIGNATURE® CARD",
+        "category": ["USBANK", "BALANCE_TRANSFER", "CASH_BACK"],
+        "bonus": "Earn $150 rewards bonus after you spend $500 in first 3 months of account opening",
+        "annualFee": "$0 Annual Fee",
+        "id": 6002,
+        "introApr": "Enjoy a 0% intro APR on purchases and balance transfers for the first 12 billing cycles. After that the APR is variable, currently 14.99% - 23.99%.",
+        "benefits": [
+          "5% CASH BACK on your first $2,000 in combined eligible purchases each quarter on two categories you choose.",
+          "2% CASH BACK  on one everyday category, like gas stations, grocery stores or restaurants",
+          "1% CASH BACK  per $1 on all other eligible purchases."
+        ],
+        "imageURL": "https://www.usbank.com/dam/images/rps/large/cardArt_cashplus-large-333x209.png"
+      },
+      {
+        "name": "U.S. BANK ALTITUDE® RESERVE VISA INFINITE® CARD",
+        "category": ["USBANK", "TRAVEL"],
+        "bonus": "Earn 50,000 points after you spend $4,500 in the first 3 months of account opening.",
+        "annualFee": "$400 Annual Fee",
+        "id": 6003,
+        "introApr": "",
+        "benefits": [
+          "Earn 5X points on prepaid hotels and car rentals booked directly in the Altitude Rewards Center.",
+          "Earn 3X points for every $1 on eligible net travel purchases and mobile wallet spending.",
+          "UP TO $325 ANNUAL STATEMENT CREDITS - Get reimbursed for eligible net travel purchases.",
+          "Stay connected with 12 complimentary Gogo® Inflight Wi-Fi passes per year",
+          "Up to $100 statement credit to reimburse your application fee once every four years",
+          "Complimentary 12-month Priority Pass™ Select membership to more than 1,200 VIP lounges worldwide."
+          
+        ],
+        "imageURL": "https://www.usbank.com/content/dam/usbank/images/rps/altitude_large-333x209.png"
+      },
+      {
+        "name": "U.S. BANK FLEXPERKS® GOLD AMERICAN EXPRESS® CARD",
+        "category": ["USBANK", "TRAVEL"],
+        "bonus": "Earn 30,000 bonus FlexPoints after you spend $2,000 in purchases in the first 4 months of account opening.",
+        "annualFee": "0 Annual Fee",
+        "id": 6004,
+        "introApr": "",
+        "benefits": [
+          "Earn 5X FlexPoints on prepaid hotels and car rentals booked directly in the FlexPerks Rewards Center",
+          "Earn triple FlexPoints at restaurants— whether it's a highly-rated hot spot or your regular corner cafe.",
+          "Earn double FlexPoints at airlines and gas stations.",
+          "Earn 1 FlexPoint for every $1 spent on all other eligible net purchases.",
+          "No foreign transaction fees.",
+          "Enjoy an automatic statement credit reimbursement on the application fee for whichever program you apply for first",
+          "Stay connected at over 1 million hotspots worldwide, including select airlines and hotels."
+          
+        ],
+        "imageURL": "https://www.usbank.com/dam/images/rps/large/cardArt_flexperks-gold-large-333x209.png"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "CapitalOne",
+    "cards": [
+      {
+        "name": "Capitalone Venture® Rewards",
+        "category": ["CAPITALONE", "TRAVEL"],
+        "bonus": "Earn 50,000 bonus miles once you spend $3,000 on purchases within the first 3 months from account opening.",
+        "annualFee": "$95 Annual Fee",
+        "id": 7001,
+        "introApr": "",
+        "benefits": [
+          "Earn unlimited 2X miles per dollar on every purchase, every day",
+          "No Foreign Transaction Fees",
+          "Use your Venture miles on flights, hotels and more—you can even transfer miles to any of our 10+ travel loyalty programs.",
+          "Receive up to $100 credit for Global Entry or TSA Pre® when you use your Venture card."
+        ],
+        "imageURL": "https://www.capitalone.com/credit-cards/binaries/card/products/venture-card-art.png"
+      },
+      {
+        "name": "Capitalone VentureOne® Rewards",
+        "category": ["CAPITALONE", "TRAVEL"],
+        "bonus": "Earn 20,000 bonus miles once you spend $3,000 on purchases within the first 3 months from account opening.",
+        "annualFee": "$0 Annual Fee",
+        "id": 7002,
+        "introApr": "",
+        "benefits": [
+          "Earn unlimited 1.25 miles per dollar on every purchase, every day",
+          "No Foreign Transaction Fees",
+          "Use your Venture miles on flights, hotels and more—you can even transfer miles to any of our 10+ travel loyalty programs."
+        ],
+        "imageURL": "https://www.capitalone.com/credit-cards/binaries/card/products/ventureone-card-art.png"
+      },
+      {
+        "name": "QuicksilverOne® from Capital One®",
+        "category": ["CAPITALONE", "CASH_BACK"],
+        "bonus": "None available at this time",
+        "annualFee": "$0 Annual Fee",
+        "id": 7003,
+        "introApr": "",
+        "benefits": [
+          "Unlimited 1.5% Cash Back on every purchase, every day. Plus, get access to valuable benefits."
+        ],
+        "imageURL": "https://www.capitalone.com/credit-cards/binaries/card/products/quicksilver-card-art.png"
+      },
+      {
+        "name": "Capitalone SavorOne® Rewards",
+        "category": ["CAPITALONE", "REWARDS", "BALANCE_TRANSFER"],
+        "bonus": "Earn a one-time $150 cash bonus once you spend $500 on purchases within the first 3 months from account opening.",
+        "annualFee": "$0 Annual Fee",
+        "id": 7004,
+        "introApr": "0% intro APR for 15 months; 15.49% - 25.49% variable APR after that",
+        "benefits": [
+          "3% cash back on dining and entertainment",
+          "2% at grocery stores (excluding superstores like Walmart® and Target®)",
+          "1% on all other purchases."
+        ],
+        "imageURL": "https://www.capitalone.com/credit-cards/binaries/card/products/savorone-card-art.png"
+      }
+    ]
+  }
+]
+
+
+
