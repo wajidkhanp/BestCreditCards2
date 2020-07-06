@@ -80,7 +80,7 @@ struct CardListView: View {
 
 struct CardCompanyView_Previews: PreviewProvider {
   static var previews: some View {
-    CardListView(filter: .bankCard)
+    CardListView(filter: .cardCategory)
   }
   
 }

@@ -20,7 +20,7 @@ struct CardListingView: View {
       NavigationLink(destination: CardDetailView(cardData: card)) {
         CardListRow(cardlist: card)
         }
-    }.navigationBarTitle("\(passedCategoryName)")
+    }.navigationBarTitle("\(passedCategoryName)", displayMode: .inline)
       //.onAppear { UITableView.appearance().separatorStyle = .none }
   }
   
